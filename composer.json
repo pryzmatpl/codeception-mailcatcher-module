@@ -1,6 +1,6 @@
 {
-    "name": "captbaritone/mailcatcher-codeception-module",
-    "description": "Test emails in your Codeception acceptance tests",
+    "name": "pryzmatpl/mailcatcher-codeception-module",
+    "description": "Test emails in your Codeception acceptance tests PHP8 CP5",
     "license": "MIT",
     "authors": [
         {
@@ -10,10 +10,14 @@
         {
             "name": "James King",
             "email": "james@jamesking.dev"
+        },
+        {
+            "name": "Piotr Słupski",
+            "email": "piotr.slupski@pryzmat.pl"
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
         "codeception/codeception": "^3.0 || ^4.0",
