@@ -20,7 +20,7 @@
         "php": "^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
-        "codeception/codeception": "^3.0 || ^4.0",
+        "codeception/codeception": "*",
         "zbateson/mail-mime-parser": "^1.2"
     },
     "autoload": {
